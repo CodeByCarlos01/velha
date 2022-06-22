@@ -1,0 +1,155 @@
+body,html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    background-color: lightseagreen;
+}
+
+.title {
+    position: relative;
+    margin-top: 90px;
+    margin-left: 550px;
+}
+
+.inputs {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 570px;
+}
+
+.next {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 920px;
+}
+
+.back {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.message {
+    position: absolute;
+    top: 200px;
+    left: 590px;
+}
+
+.velha {
+    position: absolute;
+    top: 280px;
+    left: 550px;
+}
+
+.botoes {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.name1 {
+    position: absolute;
+    top: 450px;
+    left: 140px;
+}
+
+.name2 {
+    position: absolute;
+    top: 450px;
+    left: 1140px;
+}
+
+.X {
+    position: absolute;
+    top: 510px;
+    left: 150px;
+}
+
+.O {
+    position: absolute;
+    top: 510px;
+    left: 1150px;
+}
+
+.btn0 {
+    position: absolute;
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+    top: 350px;
+    left: 650px;
+}
+
+.btn1 {
+    position: absolute;
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+    top: 350px;
+    left: 730px;
+}
+
+.btn2 {
+    position: absolute;
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+    top: 350px;
+    left: 812px;
+}
+
+.btn3 {
+    position: absolute;
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+    top: 430px;
+    left: 650px;
+}
+
+.btn4 {
+    position: absolute;
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+    top: 430px;
+    left: 730px;
+}
+
+.btn5 {
+    position: absolute;
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+    top: 430px;
+    left: 812px;
+}
+
+.btn6 {
+    position: absolute;
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+    top: 512px;
+    left: 650px;
+}
+
+.btn7 {
+    position: absolute;
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+    top: 512px;
+    left: 730px;
+}
+
+.btn8 {
+    position: absolute;
+    background-color: lightseagreen;
+    width: 60px;
+    height: 60px;
+    top: 512px;
+    left: 812px;
+}
