@@ -13,19 +13,19 @@ Este projeto foi criado para fins educacionais e pode servir como um exemplo sim
 - `Reinício`: O jogo oferece a opção de reiniciar uma partida após o término.
 
 ## Como Executar o Jogo
-1. Instalar o `kotlin` versão 1.5.0
-2. Digitar no terminal:
-    ```sh
-    kotlinc-js FrontEnd.kt -output static/FrontEnd.js
-    ```
-3. Digitar novamente no terminal:
-    ```sh
-    kotlin ServidorWeb.main.kts
-    ```
-4. Por fim, basta abrir o site e acrescentar na URL:
-    ```sh
-    /FrontEnd.html
-    ```
+##### `1.` Instalar o `kotlin` versão 1.5.0
+##### `2.` Digitar no terminal:
+```sh
+kotlinc-js FrontEnd.kt -output static/FrontEnd.js
+```
+##### `3.` Digitar novamente no terminal:
+```sh
+kotlin ServidorWeb.main.kts
+```
+##### `4.` Por fim, basta abrir o site e acrescentar na URL:
+```sh
+/FrontEnd.html
+```
 ## Agradecimentos
 Agradecemos por usar o Jogo da Velha em Kotlin. Esperamos que você se divirta jogando e aprenda algo novo no processo.
 ## Equipe:
