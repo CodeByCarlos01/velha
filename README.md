@@ -32,3 +32,6 @@ Agradecemos por usar o Jogo da Velha em Kotlin. Esperamos que você se divirta j
 ### 1. Carlos Eduardo Cabral de Farias
 ### 2. Pedro Lucas Melo Hirschle
 ### 3. Ênio Ferreira da Silva
+
+##  **Meu Linked** ![logo](https://github.com/CodeByCarlos01/language-DSL/assets/107969946/aefba453-727d-4b05-ad1c-7e932947ba90) :
+https://www.linkedin.com/in/carlos-eduh/ 👍
